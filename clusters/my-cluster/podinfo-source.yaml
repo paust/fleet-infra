@@ -8,6 +8,6 @@ spec:
   interval: 30s
   ref:
     branch: master
-
+    tag: 4.0.4
   url: https://github.com/stefanprodan/podinfo
   
